@@ -1,4 +1,4 @@
-# [Responsive portfolio website (https://zarlengo.github.io/)](https://zarlengo.github.io/)
+# [Responsive portfolio website (https://zarlengo.github.io/Updated-profile/)](https://zarlengo.github.io/Updated-profile/)
 
 [Hero](./images/Hero.jpg)
 

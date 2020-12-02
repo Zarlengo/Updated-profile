@@ -8,40 +8,64 @@
 }
 
 /*  Adds images for each project  */
-.project1 {
-    background-image: url(../images/attendance300_300.png);
+.attendance {
+    background-image: url(../images/attendance.png);
 }
 
-.project2 {
-    background-image: url(../images/sodoku.gif);
+.production {
+    background-image: url(../images/production.png);
 }
 
-.project3 {
-    background-image: url(../images/path.gif);
+.spaceInvaders {
+    background-image: url(../images/spaceInvaders.png);
 }
 
-.project4 {
-    background-image: url(../images/production_300_300.png);
+.verdantEarth {
+    background-image: url(../images/verdantEarth.png);
 }
 
-.project5 {
-    background-image: url(../images/cat_and_mouse.gif);
+.chefify {
+    background-image: url(../images/chefify.png);
 }
 
-.project6,
-.project7,
-.project8,
-.project9,
-.project10,
-.project11,
-.project12,
-.project13,
-.project14,
-.project15,
-.project16,
-.project17,
-.project18 {
-    background-image: url(https://via.placeholder.com/300);
+.googleBooks {
+    background-image: url(../images/googleBooks.png);
+}
+
+.employeeDirectory {
+    background-image: url(../images/employeeDirectory.png);
+}
+
+.budget {
+    background-image: url(../images/budget.png);
+}
+
+.workout {
+    background-image: url(../images/workout.png);
+}
+
+.restaurant {
+    background-image: url(../images/restaurant.png);
+}
+
+.notes {
+    background-image: url(../images/notes.png);
+}
+
+.weather {
+    background-image: url(../images/weather.png);
+}
+
+.workDay {
+    background-image: url(../images/workDay.png);
+}
+
+.codeQuiz {
+    background-image: url(../images/codeQuiz.png);
+}
+
+.passwordGenerator {
+    background-image: url(../images/passwordGenerator.png);
 }
 
 /*  Fixed sizes for each card image  */
