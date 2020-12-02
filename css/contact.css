@@ -1,0 +1,38 @@
+/*  Formatting for the descriptors on each form element  */
+.form-titles {
+    margin-top: 20px;
+}
+
+/*  Formatting for the input elements  */
+.form-content {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*  Options to allow resizing of the message text box by
+    dragging the selector in the bottom right  */
+.resize {
+    overflow-y: hidden;
+    resize: vertical;
+    display: inline-block;
+    white-space: nowrap;
+    width: 100%;
+    min-height: 100px;
+}
+
+.resize > input {
+    width: 100%;
+    height: 100%;
+    min-height: 100px;
+}
+
+/*  Formatting for the submit button */
+.submit-button {
+    border-radius: 5px;
+    border: 0 solid;
+    margin: 30px 0 30px 0;
+    padding: 5px 35px 5px 35px;
+    background-color: var(--main-blue-back-color);
+    color: var(--dark-back-font-color);
+}
